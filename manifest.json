@@ -1,0 +1,26 @@
+{
+  "short_name": "Alloma P.",
+  "name": "Portfolio | Alloma N’da Yao Jean Luc",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "description": "Portfolio de Alloma N’da Yao Jean Luc, Développeur Java Backend & Cybersécurité."
+}
